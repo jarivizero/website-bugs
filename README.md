@@ -1,5 +1,5 @@
 I strongly recommend you not to exploit or break TOS of any of the following services websites.  
-Some of these are not bugs, just exploited oversights.  
+Some of these are not bugs, just exploited oversights, or things not meant to be possible to do.  
 
 # Discord
 A super huge video embed will not load on discord (413 Too large)  
@@ -48,7 +48,10 @@ Uploading caption files via a python script is doable, and you can store up to 5
 # Twitter
 You can upload subtitles to a video, size limit is 5mb
 Uploading a super long caption for one second will crash anyones desktop/phone
-Uploading base64 is a way to store bytes for any filetype.
+Uploading base64 is a way to store bytes for any filetype.  
+
+You can repeat a draft save request to get 2 of the same posts but with the same direct video link,   
+posting both of them and deleting the first one will cause the second one to say "This media has been deleted" (which is not commonly possible)  
 
 You can store videos in drafts and extract the mp4 link, never deleted, never expiring.
 <img width="582" height="676" alt="putentiremovieindrafts_twitter_x_com" src="https://github.com/user-attachments/assets/6ad9be7c-9eb0-4e94-a9ec-387a0e36e3cb" />
