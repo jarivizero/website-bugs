@@ -72,7 +72,10 @@ Put "2if_" on a archive url to view the raw image/video/html, this will also rem
 https://web.archive.org/web/2if_@jarivizero/https://google.com/search?q=a  
 https://web.archive.org/web/0if_anythinghere/https://catbox.moe/pictures/logo.png  
 
-
+# General websites
+You can utilize the last-modified header of a JS files, mp4 file, png file, html file to see when the file was last updated, this is useful to see
+if anyone has touched it recently or to see if a website is active  
+Used on [twitter](https://greasyfork.org/en/scripts/567071-x-twitter-image-video-thumb-last-modified-time-difference) to see how long it took for someone to upload a post or how long it's been in drafts.
 
 ## todo
 images, example links, reformat.
