@@ -1,4 +1,5 @@
 I strongly recommend you not to exploit or break TOS of any of the following services websites.
+Some of these are not bugs, just exploited oversights.
 
 # Discord
 A super huge video embed will not load on discord (413 Too large)  
