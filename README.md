@@ -57,7 +57,11 @@ You can store videos in drafts and extract the mp4 link, never deleted, never ex
 <img width="582" height="676" alt="putentiremovieindrafts_twitter_x_com" src="https://github.com/user-attachments/assets/6ad9be7c-9eb0-4e94-a9ec-387a0e36e3cb" />
 
 Using a script to upload 1x1 fake pngs, (like tiktok method) pbs.twimg.com lets you view the images on any site (not like video.twimg.com)
-so you can upload any file and download it off of any website (yoursite.github.io)
+so you can upload any file and download it off of any website (yoursite.github.io)  
+
+For watching the MP4 video.twimg.com urls, it's easy to download them, but not when on a website like .github.io  
+There's CORS errors and stuff  
+Add <meta name="referrer" content="no-referrer"> to the site and use video-s.twimg.com and it is just allowed.  
 
 
 # Kami
